@@ -1,0 +1,37 @@
+{
+  "Sentences": [
+    "tu est incroyable, je te l'assure !! ",
+    "tu es un BG avec un charisme hors du commun !!",
+    "tu est absolument remarquable, je le pense vraiment !!",
+    "tu est quelqu'un de formidable, sache-le !!"
+  ],
+  "genderAgreement": {
+    "un": "une"
+  },
+  "sex": {
+    "Alexandre": "male",
+    "Harry": "male",
+    "Astrid": "female",
+    "Mathias": "male",
+    "Emmeline": "female",
+    "Mickael": "male",
+    "Nicolas": "male",
+    "Aëto": "female",
+    "Laure": "female",
+    "Coralie": "female",
+    "Pierre": "male"
+  },
+  "ping": {
+    "Alexandre": "<@!688807476694351888>",
+    "Harry": "<@!363791063498096652>",
+    "Astrid": "<@!688744401484251194>",
+    "Mathias": "<@!282845219253256203>",
+    "Emmeline": "<@!594940447852462126>",
+    "Mickael": "<@!885228617997619210>",
+    "Nicolas": "<@!690186841042976777>",
+    "Aëto": "<@!246557316722196480>",
+    "Laure": "<@!379237535437815808>",
+    "Coralie": "<@!325377627185479695>",
+    "Pierre": "<@!268430584064245762>"
+  }
+}
